@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+data/*.db
+data/approved_html/*
+!data/approved_html/.gitkeep
+vendor/
+.pytest_cache/
+exports/
